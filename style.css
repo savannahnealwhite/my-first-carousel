@@ -1,0 +1,13 @@
+img {
+    height: 100px; width: 200px; overflow: hidden;
+}
+
+
+
+.carousel-inner > .item > img {
+  margin: 0 auto;
+}
+
+h2 {
+    text-align: center
+}
